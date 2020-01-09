@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html> 
+	<head> 
+	<title>My first webpage</title>
+	</head>
+	<body>
+<h1>Welcome to PRJ 4 2020</h1>
+  <div id="Workshop 2">
+     <p>Today we will:<br/>check how to use w3cshools website adding a hyperlinks<br/>using meta tab charset<br/>add an image</p>
+  </div>
+
+     <p>checking codeacademy</p>
+<div id="https://image.shutterstock.com/image-vector/green-check-mark-icon-tick-260nw-522874111.jpg"/></div>
+	</body>
+</html>
